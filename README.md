@@ -10,6 +10,7 @@ Watch AI untangle messy delivery routes into optimal paths on a live Google Maps
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)
 
 ---
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/3a66d6ae-6010-473b-8249-a28d321cf7bd" />
 
 ## Overview
 
